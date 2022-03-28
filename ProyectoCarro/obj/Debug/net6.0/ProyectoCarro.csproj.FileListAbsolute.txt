@@ -1,0 +1,15 @@
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\bin\Debug\net6.0\ProyectoCarro.exe
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\bin\Debug\net6.0\ProyectoCarro.deps.json
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\bin\Debug\net6.0\ProyectoCarro.runtimeconfig.json
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\bin\Debug\net6.0\ProyectoCarro.dll
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\bin\Debug\net6.0\ref\ProyectoCarro.dll
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\bin\Debug\net6.0\ProyectoCarro.pdb
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ProyectoCarro.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ProyectoCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ProyectoCarro.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ProyectoCarro.AssemblyInfo.cs
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ProyectoCarro.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ProyectoCarro.dll
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ref\ProyectoCarro.dll
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ProyectoCarro.pdb
+C:\Users\loren\source\repos\ProyectoCarro\ProyectoCarro\obj\Debug\net6.0\ProyectoCarro.genruntimeconfig.cache
